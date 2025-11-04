@@ -10,7 +10,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { info } from '../../info';
 
 import logo from '../../public/logo.png';
-import i02 from '../../public/survey/02.jpg';
+import i02 from '../../public/survey/02.png';
 import i03 from '../../public/survey/03.png';
 
 const Intro = () => <motion.div
